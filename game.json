@@ -1,6 +1,6 @@
 {
   "Pikon" : {
-    "ads_mode" : "noads",
+    "ads_mode" : "admob",
     "admost_app_id" : "",
     "admost_banner_id" : "banner",
     "admost_native_id" : "native",
