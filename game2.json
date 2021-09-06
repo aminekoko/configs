@@ -1,6 +1,6 @@
 {
   "Pikon" : {
-    "ads_mode" : "admob",
+    "ads_mode" : "tapdaq",
     "admost_app_id" : "",
     "admost_banner_id" : "banner",
     "admost_native_id" : "native",
