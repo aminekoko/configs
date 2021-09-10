@@ -1,6 +1,6 @@
 {
   "PikonApp" : {
-    "ads_mode" : "admost",
+    "ads_mode" : "admob",
     "admost_app_id" : "46d20ff7-d0a8-4b05-bd0b-6eac3e7b01f9",
     "admost_banner_id" : "6be00ebc-6536-4f14-b10c-6b8aa5a6a546",
     "admost_native_id" : "fbf246ee-7b91-4c13-b093-38cfcadd015d",
