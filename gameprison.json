@@ -1,19 +1,19 @@
 {
-	"version": " said test ",
+	"version": " Prison v1 ",
 
-"ironsdk": "114b18dc5",
+"ironsdk": "1521c8d61",
 
-"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
-"applovinbanner": "ca-app-pub-3940256099942544/6300978111",
-"applovininter": "ca-app-pub-3940256099942544/1033173712",
-"applovinreward": "ca-app-pub-3940256099942544/5224354917",
+"applovinsdk": "WoDJ0JnAeJXwvnQ7hoOxu6wVpeXFBra94kLmlNmdB8oJBFXeZBMi0p7ei5h81BqL2QmyIlZeOFEJ9y62h84uMu",
+"applovinbanner": "48ddf8aff2e5ec7d",
+"applovininter": "fb2a6bf276974757",
+"applovinreward": "0e900ac511d137b8",
 	
 	
-"admobbanner": "ca-app-pub-3940256099942544/6300978111",
-"admobinter": "ca-app-pub-3940256099942544/1033173712",
-"admobreward": "ca-app-pub-3940256099942544/5224354917",
+"admobbanner": "ca-app-pub-4761263221985970/5453774489",
+"admobinter": "ca-app-pub-4761263221985970/6575284469",
+"admobreward": "ca-app-pub-4761263221985970/1925022190",
 
-"onesignalsdk": "c46978ea-342f-4a22-b7c1-146d1dff1626",
+"onesignalsdk": "f2fc4edf-4262-45bb-b5b0-646e78b70f2e",
 
 "AdsSwitch details ": "0 auto , 1 applovin: iron,2 iron,3 admob",
 
