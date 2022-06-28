@@ -1,12 +1,14 @@
 {
-	"version": "p1.0",
+	"version": "V1",
 
 
-	"applovinsdk": "WoDJ0JnAeJXwvnQ7hoOxu6wVpeXFBra94kLmlNmdB8oJBFXeZBMi0p7ei5h81BqL2QmyIlZeOFEJ9y62h84uMu",
-	"applovinbanner": "e9a9540015e72a82",
-	"applovininter": "6f495b1e91fba6bb",
-	"applovinreward": "d848afb27a292d99",
+	
 
-	"tapdaqapplicationId": "62164b8f08fe6c2d735d7989",
-	"tapdaqclientKey": "c68cf18c-4c96-470e-a705-44df3583cfe7",
-}
+"ironsdk": "156e1be31",
+"appodealid": "16d2c2d40e6ce3b44082cfb044c0e47caeb0e5c5c376125b"
+
+
+
+
+
+
