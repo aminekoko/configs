@@ -1,0 +1,26 @@
+{
+	"version": "v1",
+
+"ironsdk": "15a16598d",
+"ironbanner": "DefaultBanner",
+"ironinter": "DefaultInterstitial",
+"ironreward": "DefaultInterstitial",
+
+"applovinsdk": "WoDJ0JnAeJXwvnQ7hoOxu6wVpeXFBra94kLmlNmdB8oJBFXeZBMi0p7ei5h81BqL2QmyIlZeOFEJ9y62h84uMu",
+"applovinbanner": "b3c0144ddf2f91fb",
+"applovininter": "3a390b181d982a94",
+"applovinreward": "d32764eff2217fad",
+
+"appodealid": "21caeaf8af06b65463d57272c617c7f4c9a294b40396f709",
+
+
+"adsswitch detail ": "0 : applovin, 1: iron",
+
+	"adsswitch": "1"
+
+
+
+
+
+
+}
