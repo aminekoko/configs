@@ -1,0 +1,25 @@
+{
+	"version": "v1",
+
+"ironsdk": "15a50c7ad",
+
+"applovinsdk": "WoDJ0JnAeJXwvnQ7hoOxu6wVpeXFBra94kLmlNmdB8oJBFXeZBMi0p7ei5h81BqL2QmyIlZeOFEJ9y62h84uMu",
+"applovinbanner": "698cb7374d90d14e",
+"applovininter": "3854cde39ee74108",
+"applovinreward": "5df8ceb17aa7505e",
+	
+	
+"admobbanner": "ca-app-pub-4761263221985970/8582809166",
+"admobinter": "ca-app-pub-4761263221985970/9512747453",
+"admobreward": "ca-app-pub-4761263221985970/3685705704",
+
+"onesignalsdk": "c8147563-5b0e-416b-b4da-a87a6dfa1973",
+
+"AdsSwitch details ": "0 auto , 1 applovin: iron,2 iron,3 admob",
+
+"AdsSwitch": "3"
+
+
+
+
+}
