@@ -1,0 +1,26 @@
+{
+	"version": "Rimo v&",
+
+"ironsdk": "//114b18dc5//",
+"ironbanner": "DefaultBanner",
+"ironinter": "DefaultInterstitial",
+"ironreward": "DefaultInterstitial",
+
+"applovinsdk": "//A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm//",
+"applovinbanner": "539de5a1cbe7871f",
+"applovininter": "fb83e2f81021a2c6",
+"applovinreward": "283d86c655277ccc",
+
+"appodealid": "//283d86c655277ccc//",
+
+
+"adsswitch detail ": "0 : applovin, 1: iron",
+
+	"adsswitch": "1"
+
+
+
+
+
+
+}
