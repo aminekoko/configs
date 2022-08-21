@@ -1,17 +1,17 @@
 {
 	"version": "Rimo v1",
 
-"ironsdk": "114b18dc5",
+"ironsdk": "1624751a5",
 "ironbanner": "DefaultBanner",
 "ironinter": "DefaultInterstitial",
 "ironreward": "DefaultInterstitial",
 
-"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
-"applovinbanner": "539de5a1cbe7871f",
-"applovininter": "fb83e2f81021a2c6",
-"applovinreward": "283d86c655277ccc",
+"applovinsdk": "WoDJ0JnAeJXwvnQ7hoOxu6wVpeXFBra94kLmlNmdB8oJBFXeZBMi0p7ei5h81BqL2QmyIlZeOFEJ9y62h84uMu",
+"applovinbanner": "3d2aa31d6dc5be49",
+"applovininter": "4e20110d3ed03e19",
+"applovinreward": "47ab53224b7e1d62",
 
-"appodealid": "283d86c655277ccc",
+"appodealid": "3b3b7c26d0629f4bd1cdab8d0afbd8156b14f0456394859f",
 
 
 "adsswitch detail ": "0 : applovin, 1: iron",
