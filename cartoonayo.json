@@ -6,15 +6,15 @@
 
       {
 
-        "NetworkAds": "iron",
+        "NetworkAds": "admob",
 
          
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "BannerAdmob": "ca-app-pub-4761263221985970/6039078283",
 
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "InterstitialAdmob": "ca-app-pub-4761263221985970/1908261583",
 
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "NativeAdmob": "ca-app-pub-4761263221985970/6824448869",
 
         "ironsource": "14a299be9"
 
