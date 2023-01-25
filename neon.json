@@ -2,11 +2,11 @@
 	"interAdType" : "admob",
 	"bannerAdType" : "admob",
 	
-	"admobInterstitialID" : "ca-app-pub-3940256099942544/1033173712",
+	"admobInterstitialID" : "ca-app-pub-2291076566749187/8274294420",
 		
-	"admobOpenApp" : "ca-app-pub-3940256099942544/3419835294",
+	"admobOpenApp" : "ca-app-pub-2291076566749187/6829065400",
 	
-	"admobBanner" : "ca-app-pub-3940256099942544/6300978111",
+	"admobBanner" : "ca-app-pub-2291076566749187/2889820390",
 	
 	"appodealAppKey" : "e429aba05d0353bb4fcbe37c7967627f071cceecc8f0d2c7",
 	
