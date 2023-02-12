@@ -1,0 +1,24 @@
+{
+	"version": "said1.11",
+
+
+	"ironsdk": "WoDJ0JnAeJ",
+	"appodealid": "9cd09c92b093eac9",
+
+
+"applovinsdk": "9cd09c92b093eac9",
+"applovinbanner": "9cd09c92b093eac9",
+"applovininter": "9cd09c92b093eac9",
+"applovinreward": "9cd09c92b093eac9",
+
+"admobbanner": "ca-app-pub-3940256099942544/6300978111",
+"admobinter": "ca-app-pub-3940256099942544/1033173712",
+"admobreward": "ca-app-pub-3940256099942544/5354046379",
+
+"adsswitch details": "0 applovin 1 iron 2 admob 3 auto",
+"adsswitch": "2"
+
+
+
+
+}
