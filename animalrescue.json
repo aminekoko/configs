@@ -1,5 +1,5 @@
 {
-	"version": "cross test1",
+	"version": "Loading 1",
 
 "ironsdk": "114b18dc5",
 
@@ -21,7 +21,7 @@
 
 "AdsSwitch details ": "0 auto , 1 applovin,2 iron,3 admob",
 
-"AdsSwitch": "0"
+"AdsSwitch": "1"
 
 
 
