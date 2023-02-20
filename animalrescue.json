@@ -1,0 +1,29 @@
+{
+	"version": "cross test1",
+
+"ironsdk": "114b18dc5",
+
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
+"applovinbanner": "3940256099942544",
+"applovininter": "3940256099942544",
+"applovinreward": "3940256099942544",
+"admobbanner": "ca-app-pub-3940256099942544/6300978111",
+"admobinter": "ca-app-pub-3940256099942544/1033173712",
+"admobreward": "ca-app-pub-3940256099942544/5224354917",
+
+
+"appodealsdk": "1842821b172dd6ca0cab28350914a8625557235f4dcc36d6",
+"appodealbanner": "",
+"appodealinter": "",
+"appodealreward": "",
+
+"onesignalsdk": "",
+
+"AdsSwitch details ": "0 auto , 1 applovin,2 iron,3 admob",
+
+"AdsSwitch": "0"
+
+
+
+
+}
