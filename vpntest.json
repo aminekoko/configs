@@ -1,0 +1,20 @@
+{
+    "vpn": {
+    "activate_vpn": "true",
+    "vpn_username": "tC4yYTGVygKckSHkkh4E7CHp",
+    "vpn_password": "bLN6URrwHq6uDESkuQTCBfrw",
+    "retry_vpn_counter": 2,
+    "vpn_country": "USA",
+    "serversList": [
+        "https://json.irondev.center/irondev_vpn_servers/United_States/New_York.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/Japan/Tokyo.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/Canada/Toronto.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/United_States/Los_Angeles.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/United_Kingdom/London.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/Argentina/Buenos_Aires.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/France/Paris.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/Germany/Berlin.ovpn",
+        "https://json.irondev.center/irondev_vpn_servers/United_Arab_Emirates/Dubai.ovpn"
+    ]
+  }
+}
