@@ -1,0 +1,29 @@
+{
+	"version": "Loading",
+
+"applovinsdk": "WoDJ0JnAeJXwvnQ7hoOxu6wVpeXFBra94kLmlNmdB8oJBFXeZBMi0p7ei5h81BqL2QmyIlZeOFEJ9y62h84uMu",
+"applovinbanner": "3940256099942544",
+"applovininter": "39402560990404",
+"applovinreward": "39402560911144",
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+"admobReward": "ca-app-pub-3940256099942544/5224354917",
+
+
+"appodealsdk": "111",
+"appodealbanner": "00000",
+"appodealinter": "1111",
+"appodealreward": "22222",
+
+
+"adsSwitch detail ": " 1:admob  2:applovin  0:auto",
+
+"adsSwitchInter": "1",
+
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
+"adscounter": "1"
+
+
+
+}
