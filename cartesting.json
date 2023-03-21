@@ -11,12 +11,16 @@
 "applovininter": "fb83e2f81021a2c6",
 "applovinreward": "283d86c655277ccc",
 
-"appodealid": "80dd91902f504ffe6b60f0dca9497566c4b30cbf1d1ed62f",
+"appodealid": "283d86c655277ccc",
 
+"unityid": "00000",
+"unitybanner": "00000",
+"unityinter": "0000",
+"unityreward": "0000",
 
-"adsswitch detail ": "0 : applovin, 1: iron",
+"adsswitch detail ": "0 : applovin, 1: iron,3: unity",
 
-	"adsswitch": "1"
+	"adsswitch": "3"
 
 
 
