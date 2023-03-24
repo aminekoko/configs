@@ -1,10 +1,8 @@
 {
-	"version": "said v12",
+	"version": "Loading...",
 
 "ironsdk": "114b18dc5",
-"ironbanner": "DefaultBanner",
-"ironinter": "DefaultInterstitial",
-"ironreward": "DefaultInterstitial",
+
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
 "applovinbanner": "539de5a1cbe7871f",
@@ -13,15 +11,18 @@
 
 "appodealid": "283d86c655277ccc",
 
-"unityid": "5214309",
+"unityid": "4983033",
 "unitybanner": "Banner_Android",
 "unityinter": "Interstitial_Android",
 "unityreward": "Rewarded_Android",
 
-"adsswitch detail ": "0 : applovin, 1: iron,3: unity",
+	"adscounter": "1",
+	
+"adsswitch detail ": "0 : auto, 1:iron 2:applovin 3: unity",
 
-	"adsswitch": "3"
-
+	"adsSwitchInter": "3",
+"adsSwitchBanner": "3",
+"adsSwitchReward": "3"
 
 
 
