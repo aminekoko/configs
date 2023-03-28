@@ -1,1 +1,1 @@
-{"gameName":"Leo Adventures","storeLink":"https://play.google.com/store/apps/details?id=com.leosubway.patroldash","imageUrls":["https://nutrimaniac.com/work/crosspromo/gogo.jpg"]}
+{"gameName":"Street Patrol","storeLink":"https://play.google.com/store/apps/details?id=com.subwayadventures.patrolrush","imageUrls":["https://nutrimaniac.com/work/crosspromo/rido.jpg"]}
