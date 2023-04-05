@@ -1,0 +1,26 @@
+{
+	"version": "said v1.1",
+
+
+"ironsdk": "114b18dc5",
+"ironbanner": "DefaultBanner",
+"ironinter": "DefaultInterstitial",
+"ironreward": "DefaultInterstitial",
+
+"applovinsdk": "WoDJ0JnAeJXwvnQ7hoOxu6wVpeXFBra94kLmlNmdB8oJBFXeZBMi0p7ei5h81BqL2QmyIlZeOFEJ9y62h84uMu",
+"applovinbanner": "77c64f9e99e23763",
+"applovininter": "11414c0241b0e82a",
+"applovinreward": "b4c66b4a4984eaf1",
+
+
+
+"adsSwitch explication ": "0: auto , 1:ir , 2:applovin ",
+"adsSwitch": "2"
+
+
+
+
+
+
+
+}
