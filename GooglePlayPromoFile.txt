@@ -1,1 +1,1 @@
-{"gameName":"Mask Hero","storeLink":"https://play.google.com/store/apps/details?id=com.mask.hero.subwayadventures","imageUrls":["https://nutrimaniac.com/work/crosspromo/hero.jpg"]}
+{"gameName":"Prank Sounds","storeLink":"https://play.google.com/store/apps/details?id=com.airhorn.haircutprank.electricrazor","imageUrls":["https://nutrimaniac.com/work/crosspromo/spromo.jpg"]}
