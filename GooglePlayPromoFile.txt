@@ -1,1 +1,1 @@
-{"gameName":"Prank Sounds","storeLink":"https://play.google.com/store/apps/details?id=com.airhorn.haircutprank.electricrazor","imageUrls":["https://nutrimaniac.com/work/crosspromo/spromo.jpg"]}
+{"gameName":"Prank Sounds","storeLink":"https://play.google.com/store/apps/details?id=com.airhorn.haircutprank.electricrazor","imageUrls":["https://i.imgur.com/hUcZsNl.jpeg"]}
