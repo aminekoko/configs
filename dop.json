@@ -1,0 +1,34 @@
+{
+	"version": "said v5",
+
+
+
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
+"applovinbanner": "539de5a1cbe7871f",
+"applovininter": "fb83e2f81021a2c6",
+"applovinreward": "283d86c655277ccc",
+
+
+"fanbanner": "114b18dc5",
+"faninter": "114b18dc5",
+"fanreward": "114b18dc5",
+
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+"admobReward": "ca-app-pub-3940256099942544/5224354917",
+
+
+"adscounter": "1",
+
+"adsSwitchInter details ": "0:auto 1:admob  2:applovin 3:fan",
+
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2"
+	
+
+
+
+
+
+}
